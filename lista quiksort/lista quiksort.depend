@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1728603072 source:c:\users\usuario\desktop\lista quiksort\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
